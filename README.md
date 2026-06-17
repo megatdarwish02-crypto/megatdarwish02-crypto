@@ -23,9 +23,9 @@ My long-term goal is to work in Cybersecurity Consulting, helping organisations 
 - Growing my professional network
 - Documenting my learning journey
 
-## Featured Repositories
+## Current Projects
 
-Coming soon...
+🚧 Building my GitHub portfolio and documenting my cybersecurity learning journey.
 
 ## Connect With Me
 
