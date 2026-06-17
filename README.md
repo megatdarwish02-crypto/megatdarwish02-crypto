@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**megatdarwish02-crypto/megatdarwish02-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Victoria University of Wellington, New Zealand 🇳🇿
 
-Here are some ideas to get you started:
+I'm currently specialising in Cybersecurity and building my foundation in software development, networking, cloud technologies, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My long-term goal is to work in Cybersecurity Consulting, helping organisations improve their security posture through practical and business-focused solutions.
+
+Currently Learning
+Java Programming
+Cybersecurity Fundamentals
+Networking Concepts
+Linux
+Cloud Security
+Statistics & Data Analysis
+Current Focus
+Building technical projects
+Developing cybersecurity skills
+Learning cloud technologies
+Growing my professional network
+Documenting my learning journey
+Featured Repositories
+
+Coming soon...
+
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/megat-adam-darwish-megat-rozaimi-237a46319/
+
+Location: Wellington, New Zealand
